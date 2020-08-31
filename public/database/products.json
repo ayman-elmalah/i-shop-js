@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1",
+    "name": "Quartz Belt Watch",
+    "category": "Accessories",
+    "price": "150",
+    "image": "public/assets/img/product/product1.png",
+    "tag": "trending"
+  },
+  {
+    "id": "2",
+    "name": "Women Freshwash",
+    "category": "Beauty",
+    "price": "100",
+    "image": "public/assets/img/product/product2.png",
+    "tag": "trending"
+  },
+  {
+    "id": "3",
+    "name": "Room Flash Light",
+    "category": "Decor",
+    "price": "70",
+    "image": "public/assets/img/product/product3.png",
+    "tag": "trending"
+  },
+  {
+    "id": "4",
+    "name": "Perfum",
+    "category": "beauty",
+    "price": "120",
+    "image": "public/assets/img/product/product4.png",
+    "tag": "trending"
+  },
+  {
+    "id": "5",
+    "name": "Man Office Bag",
+    "category": "Accessories",
+    "price": "90",
+    "image": "public/assets/img/product/product5.png",
+    "tag": "trending"
+  },
+  {
+    "id": "6",
+    "name": "Charging Car",
+    "category": "Kids Toy",
+    "price": "320",
+    "image": "public/assets/img/product/product6.png",
+    "tag": "trending"
+  },
+  {
+    "id": "7",
+    "name": "Blutooth Speaker",
+    "category": "Accessories",
+    "price": "130",
+    "image": "public/assets/img/product/product7.png",
+    "tag": "trending"
+  },
+  {
+    "id": "8",
+    "name": "USB",
+    "category": "Accessories",
+    "price": "30",
+    "image": "public/assets/img/product/product8.png",
+    "tag": "trending"
+  },
+  {
+    "id": "9",
+    "name": "Quartz Belt Watch",
+    "category": "Accessories",
+    "price": "150",
+    "image": "public/assets/img/product/product1.png",
+    "tag": "best_seller"
+  },
+  {
+    "id": "10",
+    "name": "Women Freshwash",
+    "category": "Beauty",
+    "price": "100",
+    "image": "public/assets/img/product/product2.png",
+    "tag": "best_seller"
+  },
+  {
+    "id": "11",
+    "name": "Room Flash Light",
+    "category": "Decor",
+    "price": "70",
+    "image": "public/assets/img/product/product3.png",
+    "tag": "best_seller"
+  },
+  {
+    "id": "12",
+    "name": "Perfum",
+    "category": "beauty",
+    "price": "120",
+    "image": "public/assets/img/product/product4.png",
+    "tag": "best_seller"
+  },
+  {
+    "id": "13",
+    "name": "Man Office Bag",
+    "category": "Accessories",
+    "price": "90",
+    "image": "public/assets/img/product/product5.png",
+    "tag": "best_seller"
+  },
+  {
+    "id": "14",
+    "name": "Charging Car",
+    "category": "Kids Toy",
+    "price": "320",
+    "image": "public/assets/img/product/product6.png",
+    "tag": "best_seller"
+  },
+  {
+    "id": "15",
+    "name": "Blutooth Speaker",
+    "category": "Accessories",
+    "price": "130",
+    "image": "public/assets/img/product/product7.png",
+    "tag": "best_seller"
+  },
+  {
+    "id": "16",
+    "name": "USB",
+    "category": "Accessories",
+    "price": "30",
+    "image": "public/assets/img/product/product8.png",
+    "tag": "best_seller"
+  }
+]

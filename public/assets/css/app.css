@@ -1,0 +1,31 @@
+.cart .dropdown-menu {
+  height: 250px;
+  overflow-y: scroll;
+}
+
+.nav-item {
+  display: flex !important;
+  padding: 10px;
+}
+.nav-item .image {
+  margin-right: 15px;
+}
+.nav-item .image img {
+  width: 40px;
+}
+
+.nav-item .info h4 {
+  font-size: 16px;
+}
+
+.nav-item .info p {
+  margin-bottom: 0;
+}
+
+.clear-cart {
+  margin-left: 0 !important;
+}
+
+.clear-cart a {
+  padding: 28px 0;
+}
